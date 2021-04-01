@@ -1,0 +1,1645 @@
+1617299988860	geckodriver	INFO	Listening on 127.0.0.1:53995
+1617299988869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7JhFUy"
+
+(firefox:5128): Gtk-WARNING **: 13:59:48.955: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:5128): Gtk-WARNING **: 13:59:48.996: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.513: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.541: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.541: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.542: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.542: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.543: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.546: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.595: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.595: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.595: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.596: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.596: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.648: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.648: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.648: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.648: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5128): Gtk-WARNING **: 13:59:50.648: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.865: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.866: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.866: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.866: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.866: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:50.868: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:50.922: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.946: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.947: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.947: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.947: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5199): Gtk-WARNING **: 13:59:50.947: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.262: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.262: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.263: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.263: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.263: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:5128): GLib-GIO-WARNING **: 13:59:51.339: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.341: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.342: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.343: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.343: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5221): Gtk-WARNING **: 13:59:51.344: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.581: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.614: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617299992711	Marionette	INFO	Listening on port 34261
+1617299992753	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.880: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.880: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.880: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.881: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.881: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.939: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.940: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.940: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.941: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5307): Gtk-WARNING **: 13:59:52.941: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300021194	Marionette	INFO	Stopped listening on port 34261
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1617300117695	geckodriver	INFO	Listening on 127.0.0.1:54387
+1617300117700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenj2WmZ"
+
+(firefox:5695): Gtk-WARNING **: 14:01:57.768: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:5695): Gtk-WARNING **: 14:01:57.807: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:58.936: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:5695): Gtk-WARNING **: 14:01:58.962: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:58.963: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:58.963: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:58.964: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:58.964: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:58.968: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.022: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.023: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.023: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.023: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.023: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.069: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.069: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.069: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.069: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): Gtk-WARNING **: 14:01:59.069: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.289: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.289: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.292: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.294: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.295: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.382: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.406: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.407: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.409: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.415: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5754): Gtk-WARNING **: 14:01:59.416: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.430: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.748: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.750: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.751: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.752: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.752: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.847: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.848: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.848: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.850: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5777): Gtk-WARNING **: 14:01:59.850: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5695): GLib-GIO-WARNING **: 14:01:59.853: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.152: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.186: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300121306	Marionette	INFO	Listening on port 44883
+1617300121347	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.434: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.434: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.435: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.435: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.435: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.523: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.523: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.523: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.524: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:5877): Gtk-WARNING **: 14:02:01.524: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300150775	geckodriver	INFO	Listening on 127.0.0.1:51781
+1617300150780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexFuw0N"
+
+(firefox:5992): Gtk-WARNING **: 14:02:30.848: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:5992): Gtk-WARNING **: 14:02:30.878: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.064: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.084: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.084: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.084: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.085: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.087: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.100: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.142: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.143: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.143: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.143: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.143: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.189: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.189: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.189: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.190: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): Gtk-WARNING **: 14:02:32.190: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.384: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.384: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.384: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.384: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.385: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.437: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.455: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.455: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.456: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.457: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6053): Gtk-WARNING **: 14:02:32.457: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.479: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.816: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.817: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.817: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.817: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.818: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5992): GLib-GIO-WARNING **: 14:02:32.834: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.887: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.887: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.889: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.890: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6078): Gtk-WARNING **: 14:02:32.893: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.152: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.196: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300154235	Marionette	INFO	Listening on port 40665
+1617300154325	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.465: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.465: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.466: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.467: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.468: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.532: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.532: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.532: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.532: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6147): Gtk-WARNING **: 14:02:34.533: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300196843	geckodriver	INFO	Listening on 127.0.0.1:36441
+1617300196848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelVflVR"
+
+(firefox:6316): Gtk-WARNING **: 14:03:16.911: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6316): Gtk-WARNING **: 14:03:16.947: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.127: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.133: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.133: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.133: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.133: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.133: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.158: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.194: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.195: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.195: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.196: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.196: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.248: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.248: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.248: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.248: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): Gtk-WARNING **: 14:03:18.248: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.523: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.524: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.525: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.525: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.525: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.540: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.617: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.649: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.651: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.651: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.659: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6378): Gtk-WARNING **: 14:03:18.660: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.952: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.954: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.954: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.955: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:18.955: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6316): GLib-GIO-WARNING **: 14:03:18.969: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:19.024: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:19.025: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:19.027: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:19.027: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6399): Gtk-WARNING **: 14:03:19.029: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.238: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.295: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300200366	Marionette	INFO	Listening on port 45597
+1617300200492	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.570: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.570: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.571: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.571: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.571: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.634: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.634: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.634: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.634: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 14:03:20.636: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300205736	Marionette	INFO	Stopped listening on port 45597
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilelVflVR/protections.sqlite
+1617300214732	geckodriver	INFO	Listening on 127.0.0.1:54833
+1617300214736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWGyRdm"
+
+(firefox:6579): Gtk-WARNING **: 14:03:34.790: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6579): Gtk-WARNING **: 14:03:34.814: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.012: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.028: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.028: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.028: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.028: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.029: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.051: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.092: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.092: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.092: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.093: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.093: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.151: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.152: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.153: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.153: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6579): Gtk-WARNING **: 14:03:36.154: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.382: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.383: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.383: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.383: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.384: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.402: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.458: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.480: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.480: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.480: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.481: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6641): Gtk-WARNING **: 14:03:36.482: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:6579): GLib-GIO-WARNING **: 14:03:36.834: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.862: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.863: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.863: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.863: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.863: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.937: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.938: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.939: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.939: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6661): Gtk-WARNING **: 14:03:36.940: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.104: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.135: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300218242	Marionette	INFO	Listening on port 40979
+1617300218287	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.409: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.410: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.410: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.411: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.412: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.469: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.470: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.471: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.472: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6750): Gtk-WARNING **: 14:03:38.473: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300250691	geckodriver	INFO	Listening on 127.0.0.1:42511
+1617300250695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNMdWqv"
+
+(firefox:6901): Gtk-WARNING **: 14:04:10.748: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6901): Gtk-WARNING **: 14:04:10.780: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:11.948: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6901): Gtk-WARNING **: 14:04:11.972: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:11.972: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:11.973: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:11.973: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:11.973: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:11.978: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.027: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.027: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.028: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.028: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.028: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.068: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.068: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.069: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.069: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6901): Gtk-WARNING **: 14:04:12.069: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.299: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.300: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.301: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.301: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.299: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.308: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.356: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.372: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.372: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.372: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.372: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6960): Gtk-WARNING **: 14:04:12.372: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.712: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.712: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.713: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.713: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.713: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.786: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.786: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.786: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.787: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:6981): Gtk-WARNING **: 14:04:12.787: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:6901): GLib-GIO-WARNING **: 14:04:12.892: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.103: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.139: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300254247	Marionette	INFO	Listening on port 34769
+1617300254345	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.473: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.474: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.474: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.474: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.474: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.535: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.535: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.535: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.535: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7062): Gtk-WARNING **: 14:04:14.536: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300351240	Marionette	INFO	Stopped listening on port 40979
+1617300356150	Marionette	INFO	Stopped listening on port 34769
+1617300361132	Marionette	INFO	Stopped listening on port 40665
+1617300365794	Marionette	INFO	Stopped listening on port 44883
+1617300380480	geckodriver	INFO	Listening on 127.0.0.1:50803
+1617300380487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileibkS44"
+
+(firefox:7616): Gtk-WARNING **: 14:06:20.549: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:7616): Gtk-WARNING **: 14:06:20.584: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:21.729: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.743: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.745: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.745: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.745: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.746: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:21.763: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.803: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.804: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.804: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.804: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.804: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.845: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.845: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.848: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.849: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): Gtk-WARNING **: 14:06:21.849: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.063: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.063: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.064: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.064: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.065: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.086: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.128: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.129: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.130: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.130: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.130: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7674): Gtk-WARNING **: 14:06:22.131: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.500: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.500: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.501: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.501: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.502: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.575: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.575: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.575: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.576: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7694): Gtk-WARNING **: 14:06:22.578: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7616): GLib-GIO-WARNING **: 14:06:22.584: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:23.838: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:23.870: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300383979	Marionette	INFO	Listening on port 34307
+1617300384038	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.159: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.160: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.160: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.162: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.163: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.240: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.240: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.241: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.241: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 14:06:24.241: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300407202	Marionette	INFO	Stopped listening on port 34307
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617300674711	geckodriver	INFO	Listening on 127.0.0.1:50855
+1617300674717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepNtjlN"
+
+(firefox:8505): Gtk-WARNING **: 14:11:14.774: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:8505): Gtk-WARNING **: 14:11:14.813: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:15.982: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.003: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.005: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.006: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.007: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.007: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.024: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.063: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.063: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.064: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.064: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.064: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.120: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.120: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.120: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.121: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): Gtk-WARNING **: 14:11:16.121: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.348: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.348: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.349: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.349: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.349: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.376: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.432: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.433: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.435: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.435: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8569): Gtk-WARNING **: 14:11:16.435: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.438: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.766: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.767: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.768: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.768: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.769: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8505): GLib-GIO-WARNING **: 14:11:16.780: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.838: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.840: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.841: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.846: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8589): Gtk-WARNING **: 14:11:16.846: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.057: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.095: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300678180	Marionette	INFO	Listening on port 43737
+1617300678264	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.363: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.363: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.364: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.364: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.365: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.430: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.430: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.431: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.431: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:8679): Gtk-WARNING **: 14:11:18.431: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300684861	Marionette	INFO	Stopped listening on port 43737
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilepNtjlN/protections.sqlite
+1617300811874	geckodriver	INFO	Listening on 127.0.0.1:36653
+1617300811879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefXMUJa"
+
+(firefox:8969): Gtk-WARNING **: 14:13:31.938: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:8969): Gtk-WARNING **: 14:13:31.969: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.152: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.181: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.182: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.182: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.182: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.182: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.191: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.251: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.251: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.251: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.252: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.252: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.301: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.301: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.301: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.301: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8969): Gtk-WARNING **: 14:13:33.301: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.505: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.509: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.510: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.511: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.511: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.532: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.568: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.599: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.599: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.599: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.600: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9036): Gtk-WARNING **: 14:13:33.600: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:8969): GLib-GIO-WARNING **: 14:13:33.951: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.965: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.965: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.966: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.966: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:33.966: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:34.027: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:34.029: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:34.031: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:34.034: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9056): Gtk-WARNING **: 14:13:34.035: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.204: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.239: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617300815297	Marionette	INFO	Listening on port 43181
+1617300815419	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.514: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.515: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.517: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.517: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.518: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.582: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.582: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.582: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.583: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9130): Gtk-WARNING **: 14:13:35.583: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617300832491	Marionette	INFO	Stopped listening on port 43181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617301995211	geckodriver	INFO	Listening on 127.0.0.1:58879
+1617301995216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileABHbRx"
+
+(firefox:11344): Gtk-WARNING **: 14:33:15.287: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:11344): Gtk-WARNING **: 14:33:15.325: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.193: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.218: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.223: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.224: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.224: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.224: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.224: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.272: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.272: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.272: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.272: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.272: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.307: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.307: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.308: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.308: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): Gtk-WARNING **: 14:33:16.308: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.501: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.502: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.503: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.504: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.505: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.517: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.568: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.569: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.569: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.569: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11406): Gtk-WARNING **: 14:33:16.570: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.570: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11344): GLib-GIO-WARNING **: 14:33:16.825: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.893: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.894: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.894: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.894: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.896: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.951: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.951: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.952: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.952: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 14:33:16.953: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.125: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.159: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617301998272	Marionette	INFO	Listening on port 34787
+1617301998359	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.444: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.444: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.444: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.445: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.445: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.514: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.514: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.516: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.516: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11501): Gtk-WARNING **: 14:33:18.516: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617302017368	Marionette	INFO	Stopped listening on port 34787
+1617302382202	geckodriver	INFO	Listening on 127.0.0.1:34355
+1617302383208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8KsYID"
+
+(firefox:12371): Gtk-WARNING **: 14:39:43.260: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:12371): Gtk-WARNING **: 14:39:43.294: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.506: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.522: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.522: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.523: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.523: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.523: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.546: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.618: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.618: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.619: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.619: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.619: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.675: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.676: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.676: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.676: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12371): Gtk-WARNING **: 14:39:44.676: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.962: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.964: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.965: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.966: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:44.966: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:44.964: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.017: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:45.055: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:45.058: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:45.065: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:45.068: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 14:39:45.072: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.381: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.382: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.383: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.383: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.385: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:12371): GLib-GIO-WARNING **: 14:39:45.425: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.457: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.457: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.458: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.459: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12461): Gtk-WARNING **: 14:39:45.459: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:46.696: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:46.746: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617302386806	Marionette	INFO	Listening on port 45637
+1617302386865	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.039: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.039: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.039: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.040: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.040: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.103: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.103: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.104: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.104: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12541): Gtk-WARNING **: 14:39:47.105: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617302423317	Marionette	INFO	Stopped listening on port 45637
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1617302824348	geckodriver	INFO	Listening on 127.0.0.1:47503
+1617302824354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6WDCyl"
+
+(firefox:13453): Gtk-WARNING **: 14:47:04.411: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:13453): Gtk-WARNING **: 14:47:04.457: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.355: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.356: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.356: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.356: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.356: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.358: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.390: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.412: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.413: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.413: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.414: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.414: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.452: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.452: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.452: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.452: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): Gtk-WARNING **: 14:47:05.452: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:05.695: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.712: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.713: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.713: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.713: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.714: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:05.740: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.821: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.822: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.822: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.823: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13513): Gtk-WARNING **: 14:47:05.824: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.100: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.101: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.101: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.102: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.103: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13453): GLib-GIO-WARNING **: 14:47:06.115: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.170: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.170: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.171: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.172: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13535): Gtk-WARNING **: 14:47:06.173: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.378: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.413: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1617302827530	Marionette	INFO	Listening on port 42859
+1617302827594	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.741: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.741: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.743: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.743: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.744: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.804: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.804: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.805: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.805: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13609): Gtk-WARNING **: 14:47:07.805: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.ad16bab3e.js, line 1: ReferenceError: visualViewport is not defined
+1617302864018	Marionette	INFO	Stopped listening on port 42859
