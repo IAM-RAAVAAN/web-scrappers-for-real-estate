@@ -1,181 +1,41 @@
-,BHK,PRICE,AREA,link,text,deposite,furnished
-0,1 ,"6,750",450 ,https://www.makaan.com/pune/builder-project-in-mundhwa-11795490/1bhk-1t-450-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished
-1,1 ,"5,500",400 ,https://www.makaan.com/pune/builder-project-in-shivane-13852534/1bhk-1t-400-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished
-2,3 ,"21,000",1250 ,https://www.makaan.com/pune/sonigara-homes-nilay-in-chinchwad-13843613/3bhk-3t-1250-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-3,2 ,"14,000",1000 ,https://www.makaan.com/pune/reputed-builder-popular-nagar-in-warje-13828547/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-4,1 ,"12,000",600 ,https://www.makaan.com/pune/stone-shelters-bappa-residency-in-hinjewadi-13828620/1bhk-1t-600-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-5,2 ,"13,500",1068 ,https://www.makaan.com/pune/ak-surana-developers-shree-vardhman-nagar-in-kondhwa-13820614/2bhk-2t-1068-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-6,2 ,"10,000",860 ,https://www.makaan.com/pune/viraj-construction-pune-megh-malhar-in-manjari-13813256/2bhk-2t-860-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-7,2 ,"15,000",1120 ,https://www.makaan.com/pune/kolte-patil-developers-green-groves-cilantro-in-wagholi-13813157/2bhk-2t-1120-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-8,2 ,"13,500",819 ,https://www.makaan.com/pune/builder-project-in-daund-13807744/2bhk-1t-819-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-9,2 ,"9,000",630 ,https://www.makaan.com/pune/essen-group-and-md-group-aishwaryam-hamara-phase-ii-in-chikhali-13801336/2bhk-1t-630-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-10,2 ,"13,000",1000 ,https://www.makaan.com/pune/builder-project-in-dhanori-13801334/2bhk-2t-1000-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Unfurnished
-11,2 ,"25,000",2000 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13793359/2bhk-2t-2000-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Furnished
-12,1 ,"12,500",650 ,https://www.makaan.com/pune/gemini-housing-grand-bay-in-manjari-13793342/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-13,1 ,"9,000",500 ,https://www.makaan.com/pune/builder-project-in-hinjewadi-13787977/1bhk-2t-500-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-14,1 ,"7,000",425 ,https://www.makaan.com/pune/builder-project-in-wadegaon-13784690/1rk-1t-425-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished
-15,3 ,"18,000",1500 ,https://www.makaan.com/pune/builder-project-in-chinchwad-13784688/3bhk-3t-1500-sqft-independenthouse-for-rent,3 BHK Independent House,No Deposit,Semi-Furnished
-16,1 ,"10,000",600 ,https://www.makaan.com/pune/builder-project-in-pimple-gurav-13784243/1bhk-1t-600-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Semi-Furnished
-17,3 ,"25,000",1600 ,https://www.makaan.com/pune/runal-developers-gateway-phase-1-in-ravet-13784790/3bhk-3t-1600-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Furnished
-18,1 ,"6,500",400 ,https://www.makaan.com/pune/builder-project-in-old-sangvi-13776958/1rk-1t-400-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-19,1 ,"8,000",850 ,https://www.makaan.com/pune/lunkad-builder-anand-tarang-c-building-in-alandi-13762897/1bhk-1t-850-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-20,1 ,"8,500",270 ,https://www.makaan.com/pune/reputed-builder-renuka-heritage-in-pimpri-13776208/1rk-1t-270-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-21,2 ,"10,000",900 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13776158/2bhk-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-22,1 ,"7,000",600 ,https://www.makaan.com/pune/builder-project-in-lohegaon-13776140/1bhk-2t-600-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished
-23,2 ,"14,000",1375 ,https://www.makaan.com/pune/shapoorji-pallonji-real-estate-hinjawadi-i-phase-6-in-hinjewadi-13776134/2bhk-2t-1375-sqft-villa-for-rent,2 BHK Villa,No Deposit,Semi-Furnished
-24,1 ,"11,000",580 ,https://www.makaan.com/pune/builder-project-in-new-sangavi-13776109/1bhk-1t-580-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-25,2 ,"10,500",950 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13767596/2bhk-2t-950-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Unfurnished
-26,2 ,"12,000",825 ,https://www.makaan.com/pune/rajmata-construction-star-city-in-alandi-13767480/2bhk-2t-825-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-27,2 ,"9,000",900 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13760856/2bhk-2t-900-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Semi-Furnished
-28,1 ,"13,500",678 ,https://www.makaan.com/pune/saarrthi-group-sovereign-in-hinjewadi-13752400/1bhk-1t-678-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-29,2 ,"12,000",913 ,https://www.makaan.com/pune/majestique-landmarks-manhattan-in-wagholi-13751519/2bhk-2t-913-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-30,1 ,"6,800",550 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13748335/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-31,1 ,"11,000",550 ,https://www.makaan.com/pune/builder-project-in-wadgaon-sheri-13745406/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-32,1 ,"5,000",300 ,https://www.makaan.com/pune/sagar-developers-dehu-abhilasha-heights-in-ravet-13746426/1rk-1t-300-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished
-33,2 ,"17,000",891 ,https://www.makaan.com/pune/achalare-realtors-gauravi-apartments-in-baner-13739388/2bhk-2t-891-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-34,2 ,"16,000",820 ,https://www.makaan.com/pune/sankla-buildcoon-palresha-sankla-p-s-villa-in-hadapsar-13739377/2bhk-1t-820-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-35,2 ,"15,500",1186 ,https://www.makaan.com/pune/shree-infracon-nidhi-in-lohegaon-13734529/2bhk-2t-1186-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-36,2 ,"17,500",1050 ,https://www.makaan.com/pune/kapil-builders-residency-in-baner-13725384/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-37,1 ,"6,000",450 ,https://www.makaan.com/pune/builder-project-in-hinjewadi-13715143/1rk-1t-450-sqft-builderfloor-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished
-38,2 ,"12,000",1000 ,https://www.makaan.com/pune/reputed-builder-matoshri-apartment-in-wagholi-13715128/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-39,1 ,"7,500",450 ,https://www.makaan.com/pune/builder-project-in-thergaon-13708152/1rk-1t-450-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-40,1 ,"6,000",300 ,https://www.makaan.com/pune/builder-project-in-talwade-13711223/1rk-1t-300-sqft-builderfloor-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-41,4 ,"25,000",1650 ,https://www.makaan.com/pune/omega-promoters-paradise-in-wakad-13694731/4bhk-3t-1650-sqft-apartment-for-rent,4 BHK Apartment,No Deposit,Semi-Furnished
-42,2 ,"7,500",814 ,https://www.makaan.com/pune/xrbia-north-hinjewadi-developers-eiffel-city-chakan-ph2-in-chakan-13690967/2bhk-2t-814-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-43,1 ,"16,000",620 ,https://www.makaan.com/pune/gulmohar-builders-gulmohar-serene-in-kharadi-13689118/1bhk-1t-620-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-44,1 ,"8,000",624 ,https://www.makaan.com/pune/builder-project-in-katraj-13689079/1bhk-1t-624-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-45,1 ,"3,800",250 ,https://www.makaan.com/pune/builder-project-in-katraj-13689054/1rk-1t-250-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-46,2 ,"7,000",800 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13675803/2bhk-1t-800-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Unfurnished
-47,2 ,"12,000",800 ,https://www.makaan.com/pune/builder-project-in-hadapsar-13678906/2bhk-2t-800-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-48,2 ,"13,000",900 ,https://www.makaan.com/pune/amrit-constructions-senorita-greens-in-vadgaon-budruk-13678747/2bhk-2t-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-49,1 ,"10,500",600 ,https://www.makaan.com/pune/builder-project-in-hinjewadi-13679135/1bhk-2t-600-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-50,3 ,"22,500",1100 ,https://www.makaan.com/pune/builder-project-in-parvati-darshan-13678981/3bhk-2t-1100-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-51,2 ,"14,200",851 ,https://www.makaan.com/pune/vilas-javdekar-eco-shelters-yashwin-in-hinjewadi-13653321/2bhk-2t-851-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-52,2 ,"15,000",1250 ,https://www.makaan.com/pune/builder-project-in-lohegaon-13653316/2bhk-2t-1250-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Unfurnished
-53,3 ,"17,000",1150 ,https://www.makaan.com/pune/rama-group-melange-residences-in-hinjewadi-12903643/3bhk-3t-1150-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-54,2 ,"15,000",900 ,https://www.makaan.com/pune/builder-project-in-ambegaon-1-13476324/2bhk-2t-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-55,1 ,"16,000",750 ,https://www.makaan.com/pune/gk-developers-rose-e-mehar-in-rahatani-13846636/1bhk-1t-750-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Furnished
-56,2 ,"14,000",1080 ,https://www.makaan.com/pune/megapolis-sunway-smart-homes-in-hinjewadi-13844678/2bhk-1t-1080-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-57,2 ,"13,000",1025 ,https://www.makaan.com/pune/labh-developers-pune-lotus-residency-in-lohegaon-13847438/2bhk-2t-1025-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-58,2 ,"16,500",880 ,https://www.makaan.com/pune/chandrarang-developers-opus-77-in-wakad-13641237/2bhk-2t-880-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-59,1 ,"10,000",670 ,https://www.makaan.com/pune/dreams-corporation-aakruti-in-hadapsar-13627982/1bhk-1t-670-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-60,3 ,"22,000",1388 ,https://www.makaan.com/pune/kohinoor-group-construction-and-real-estate-tinsel-town-phase-ii-in-hinjewadi-13614969/3bhk-3t-1388-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-61,2 ,"35,000",1126 ,https://www.makaan.com/pune/ramesh-builders-hermes-heritage-phase-2-in-yerawada-13832889/2bhk-1126-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-62,2 ,"20,000",900 ,https://www.makaan.com/pune/siddhesh-properties-optimus-in-viman-nagar-13610854/2bhk-2t-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-63,2 ,"24,000",1150 ,https://www.makaan.com/pune/builder-project-in-wadgaon-sheri-13595287/2bhk-2t-1150-sqft-builderfloor-for-rent,2 BHK Independent Floor,No Deposit,Furnished
-64,2 ,"18,500",750 ,https://www.makaan.com/pune/builder-project-in-yerawada-13586556/2bhk-2t-750-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-65,1 ,"5,000",500 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13575428/1rk-1t-500-sqft-builderfloor-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-66,1 ,"5,200",320 ,https://www.makaan.com/pune/mantra-properties-residency-in-chakan-13575351/1rk-1t-320-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-67,1 ,"10,000",550 ,https://www.makaan.com/pune/builder-project-in-nigdi-13568714/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-68,1 ,"8,000",700 ,https://www.makaan.com/pune/builder-project-in-dighi-13562648/1bhk-1t-700-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished
-69,2 ,"18,000",950 ,https://www.makaan.com/pune/lanke-birje-associates-westen-tower-in-wakad-13561199/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-70,1 ,"6,000",600 ,https://www.makaan.com/pune/swaraj-homes-balaji-sadan-in-lohegaon-13561131/1rk-1t-600-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-71,1 ,"20,000",600 ,https://www.makaan.com/pune/builder-project-in-sangamvadi-13561078/1bhk-1t-600-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-72,2 ,"15,000",1188 ,https://www.makaan.com/pune/builder-project-in-punawale-13795312/2bhk-2t-1188-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-73,3 ,"19,000",1156 ,https://www.makaan.com/pune/vilas-javdekar-eco-shelters-yashwin-a-in-sus-13545772/3bhk-2t-1156-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-74,3 ,"32,000",1663 ,https://www.makaan.com/pune/bu-bhandari-acolade-in-kharadi-13545766/3bhk-3t-1663-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-75,3 ,"17,500",1270 ,https://www.makaan.com/pune/gk-developers-rose-county-in-pimple-saudagar-13550842/3bhk-2t-1270-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-76,1 ,"13,000",550 ,https://www.makaan.com/pune/builder-project-in-wanowrie-13550838/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-77,1 ,"14,000",900 ,https://www.makaan.com/pune/patel-associates-natasha-enclave-in-kondhwa-13781380/1bhk-1t-900-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-78,1 ,"6,000",220 ,https://www.makaan.com/pune/builder-project-in-hadapsar-13527290/1rk-1t-220-sqft-builderfloor-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-79,1 ,"4,999",300 ,https://www.makaan.com/pune/builder-project-in-wagholi-13527280/1rk-1t-300-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished
-80,2 ,"29,000",1100 ,https://www.makaan.com/pune/ramesh-builders-hermes-heritage-phase-2-in-yerawada-13532572/2bhk-2t-1100-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-81,2 ,"25,000",950 ,https://www.makaan.com/pune/builder-project-in-new-kalyani-nagar-13509671/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-82,1 ,"7,000",550 ,https://www.makaan.com/pune/builder-project-in-punawale-13509521/1bhk-1t-550-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished
-83,2 ,"12,500",850 ,https://www.makaan.com/pune/builder-project-in-ghorpadi-13526738/2bhk-1t-850-sqft-builderfloor-for-rent,2 BHK Independent Floor,No Deposit,Unfurnished
-84,2 ,"18,000",1060 ,https://www.makaan.com/pune/builder-project-in-hadapsar-13505325/2bhk-2t-1060-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-85,1 ,"8,500",550 ,https://www.makaan.com/pune/tanish-associates-icon-in-dighi-13496697/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-86,3 ,"30,000",1800 ,https://www.makaan.com/pune/builder-renuka-hills-in-pashan-13496683/3bhk-4t-1800-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-87,2 ,"12,000",840 ,https://www.makaan.com/pune/shah-and-associates-k-k-shreeram-in-rahatani-13496608/2bhk-1t-840-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-88,1 ,"10,000",450 ,https://www.makaan.com/pune/builder-project-in-hinjewadi-13484353/1bhk-2t-450-sqft-independenthouse-for-rent,1 BHK Independent House,No Deposit,Furnished
-89,2 ,"18,000",1075 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13484318/2bhk-2t-1075-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-90,1 ,"7,000",800 ,https://www.makaan.com/pune/builder-project-in-wagholi-13484278/1bhk-2t-800-sqft-independenthouse-for-rent,1 BHK Independent House,No Deposit,Unfurnished
-91,2 ,"11,000",977 ,https://www.makaan.com/pune/ng-rathi-associates-blossom-in-wagholi-13492250/2bhk-2t-977-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-92,1 ,"10,000",750 ,https://www.makaan.com/pune/builder-project-in-kharadi-13472396/1bhk-2t-750-sqft-independenthouse-for-rent,1 BHK Independent House,No Deposit,Unfurnished
-93,1 ,"10,500",650 ,https://www.makaan.com/pune/builder-jiya-terraces-in-dhayari-13472320/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-94,1 ,"11,000",550 ,https://www.makaan.com/pune/builder-project-in-wakad-13472225/1bhk-1t-550-sqft-independenthouse-for-rent,1 BHK Independent House,No Deposit,Semi-Furnished
-95,3 ,"20,000",1500 ,https://www.makaan.com/pune/indraprastha-developers-housing-society-in-hadapsar-13472562/3bhk-2t-1500-sqft-builderfloor-for-rent,3 BHK Independent Floor,No Deposit,Unfurnished
-96,3 ,"24,000",1600 ,https://www.makaan.com/pune/pegasus-properties-pune-megapolis-sangria-towers-in-hinjewadi-13479336/3bhk-3t-1600-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-97,1 ,"9,000",450 ,https://www.makaan.com/pune/reputed-builder-ram-society-in-yerawada-13832896/1rk-450-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-98,1 ,"11,000",670 ,https://www.makaan.com/pune/dnv-builders-elite-homes-in-tathawade-13822278/1bhk-1t-670-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-99,2 ,"14,000",780 ,https://www.makaan.com/pune/rama-group-melange-residences-in-hinjewadi-13736575/2bhk-2t-780-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-100,2 ,"10,000",900 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13776157/2bhk-2t-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-101,1 ,"7,500",400 ,https://www.makaan.com/pune/builder-project-in-wakad-13706229/1rk-1t-400-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-102,1 ,"9,000",600 ,https://www.makaan.com/pune/builder-project-in-ambegaon-1-13477964/1bhk-1t-600-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-103,2 ,"18,560",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844258/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-104,3 ,"22,000",1202 ,https://www.makaan.com/pune/nsg-group-the-royal-mirage-in-wakad-13844849/3bhk-3t-1202-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-105,3 ,"21,750",1452 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845677/3bhk-3t-1452-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-106,2 ,"18,750",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844832/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-107,2 ,"33,000",1050 ,https://www.makaan.com/pune/reelicon-shelters-alpine-ridge-in-baner-13844829/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-108,2 ,"18,620",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845648/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-109,2 ,"18,000",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13844816/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-110,2 ,"18,000",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844787/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-111,2 ,"19,500",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845535/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-112,2 ,"33,000",1050 ,https://www.makaan.com/pune/reelicon-shelters-alpine-ridge-in-baner-13847459/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-113,2 ,"18,200",950 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13847449/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-114,2 ,"18,000",1050 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13847446/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-115,2 ,"20,000",1000 ,https://www.makaan.com/pune/nsg-group-the-royal-mirage-in-wakad-13847142/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-116,2 ,"18,500",950 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13847137/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-117,2 ,"18,600",950 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13847130/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-118,3 ,"22,000",1350 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13846634/3bhk-3t-1350-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-119,2 ,"18,650",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13846545/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-120,3 ,"22,500",1336 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845421/3bhk-3t-1336-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-121,2 ,"18,000",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13845417/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-122,3 ,"21,500",1452 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845313/3bhk-3t-1452-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-123,2 ,"19,500",950 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845275/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-124,2 ,"22,000",1000 ,https://www.makaan.com/pune/nsg-group-the-royal-mirage-in-wakad-13845233/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-125,3 ,"23,600",1452 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845191/3bhk-3t-1452-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-126,1 ,"15,500",750 ,https://www.makaan.com/pune/gk-developers-rose-e-mehar-in-rahatani-13845176/1bhk-1t-750-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Furnished
-127,2 ,"17,500",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13845174/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-128,2 ,"21,000",1000 ,https://www.makaan.com/pune/nsg-group-the-royal-mirage-in-wakad-13845829/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-129,2 ,"18,750",950 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845818/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-130,2 ,"18,100",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844385/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-131,2 ,"19,000",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845109/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-132,2 ,"17,500",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13845049/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-133,2 ,"18,560",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844258/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-134,3 ,"22,000",1202 ,https://www.makaan.com/pune/nsg-group-the-royal-mirage-in-wakad-13844849/3bhk-3t-1202-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-135,3 ,"21,750",1452 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845677/3bhk-3t-1452-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-136,2 ,"18,750",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844832/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-137,2 ,"33,000",1050 ,https://www.makaan.com/pune/reelicon-shelters-alpine-ridge-in-baner-13844829/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-138,2 ,"18,620",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845648/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-139,2 ,"18,000",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13844816/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-140,3 ,"23,600",1452 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845191/3bhk-3t-1452-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-141,1 ,"15,500",750 ,https://www.makaan.com/pune/gk-developers-rose-e-mehar-in-rahatani-13845176/1bhk-1t-750-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Furnished
-142,2 ,"17,500",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13845174/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-143,2 ,"21,000",1000 ,https://www.makaan.com/pune/nsg-group-the-royal-mirage-in-wakad-13845829/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-144,2 ,"18,750",950 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845818/2bhk-2t-950-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-145,2 ,"18,100",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13844385/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-146,2 ,"19,000",985 ,https://www.makaan.com/pune/kolte-patil-developers-western-avenue-in-wakad-13845109/2bhk-2t-985-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-147,2 ,"17,500",1050 ,https://www.makaan.com/pune/millennium-developer-acropolis-in-wakad-13845049/2bhk-2t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-148,1 ,"4,000",450 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13641243/1rk-1t-450-sqft-independenthouse-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished
-149,2 ,"15,000",900 ,https://www.makaan.com/pune/builder-project-in-ambegaon-1-13476424/2bhk-2t-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-150,2 ,"12,500",1035 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r16-16th-avenue-arezo-in-nere-13826764/2bhk-2t-1035-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-151,3 ,"25,000",2300 ,https://www.makaan.com/pune/builder-project-in-hinjewadi-13826757/3bhk-4t-2300-sqft-independenthouse-for-rent,3 BHK Independent House,No Deposit,Unfurnished
-152,3 ,"18,000",1400 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r16-16th-avenue-arezo-in-nere-13826752/3bhk-5t-1400-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished
-153,3 ,"42,000",1850 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r2-2nd-avenue-in-hinjewadi-13826749/3bhk-3t-1850-sqft-villa-for-rent,3 BHK Villa,No Deposit,Furnished
-154,1 ,"10,500",620 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-6th-avenue-in-hinjewadi-13826744/1bhk-1t-620-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-155,2 ,"14,999",1090 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-e-building-in-hinjewadi-13826741/2bhk-1t-1090-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-156,1 ,"14,501",650 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-e-building-in-hinjewadi-13826735/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-157,3 ,"29,000",2200 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r2-2nd-avenue-in-hinjewadi-13826725/3bhk-3t-2200-sqft-villa-for-rent,3 BHK Villa,No Deposit,Unfurnished
-158,2 ,"40,000",2200 ,https://www.makaan.com/pune/builder-project-in-baner-13826692/2bhk-2t-2200-sqft-villa-for-rent,2 BHK Villa,No Deposit,Furnished
-159,1 ,"10,500",620 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-in-hinjewadi-13826688/1bhk-1t-620-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-160,2 ,"14,500",1032 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r7-7th-avenue-i-towers-in-hinjewadi-13826686/2bhk-2t-1032-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-161,2 ,"14,500",1100 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r7-7th-avenue-i-towers-in-hinjewadi-13826681/2bhk-1t-1100-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-162,3 ,"16,999",1450 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r7-7th-avenue-i-towers-in-hinjewadi-13826678/3bhk-3t-1450-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Semi-Furnished
-163,2 ,"19,500",1100 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-7th-avenue-in-hinjewadi-13826676/2bhk-2t-1100-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-164,1 ,"16,500",650 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-in-hinjewadi-13826673/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Furnished
-165,3 ,"30,000",1700 ,https://www.makaan.com/pune/paranjape-schemes-blue-ridge-in-hinjewadi-13826669/3bhk-3t-1700-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Furnished
-166,2 ,"13,500",1050 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-r4-in-hinjewadi-13826664/2bhk-1t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-167,1 ,"11,300",1110 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-e-building-in-hinjewadi-13826660/1bhk-1t-1110-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-168,2 ,"16,000",1165 ,https://www.makaan.com/pune/aditya-builders-pune-garden-city-in-warje-13826656/2bhk-1t-1165-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-169,2 ,"15,500",1059 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-e-building-in-hinjewadi-13826652/2bhk-2t-1059-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-170,1 ,"12,500",620 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-6th-avenue-in-hinjewadi-13826647/1bhk-1t-620-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-171,1 ,"13,999",1030 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-r4-in-hinjewadi-13826644/1bhk-1t-1030-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-172,1 ,"11,500",620 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-e-building-in-hinjewadi-13826642/1bhk-1t-620-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished
-173,1 ,"12,000",652 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-in-hinjewadi-13826640/1bhk-1t-652-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-174,2 ,"15,000",1020 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-r4-in-hinjewadi-13826634/2bhk-1t-1020-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished
-175,2 ,"30,000",1125 ,https://www.makaan.com/pune/kasturi-housing-building-a2-eon-homes-in-hinjewadi-13826632/2bhk-2t-1125-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished
-176,2 ,"15,000",1050 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-in-hinjewadi-13826631/2bhk-1t-1050-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-177,2 ,"15,000",1020 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-r4-in-hinjewadi-13826626/2bhk-2t-1020-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished
-178,1 ,"12,000",650 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-in-hinjewadi-13826587/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
-179,1 ,"12,000",650 ,https://www.makaan.com/pune/kolte-patil-developers-life-republic-sector-r3-3rd-avenue-in-hinjewadi-13826580/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished
+,BHK,PRICE,AREA,link,text,deposite,furnished,locality,Name
+0,1 ,"6,750",450 ,https://www.makaan.com/pune/builder-project-in-mundhwa-11795490/1bhk-1t-450-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished,Mundhwa,seller
+1,1 ,"9,000",610 ,https://www.makaan.com/pune/d-b-realty-aadiraj-heights-in-dighi-13866614/1bhk-1t-610-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished,Dighi,seller
+2,2 ,"18,500",975 ,https://www.makaan.com/pune/reputed-builder-anukul-residency-in-wakad-13866218/2bhk-2t-975-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished,Wakad,seller
+3,2 ,"14,500",940 ,https://www.makaan.com/pune/krisala-developers-41-estera-in-tathawade-13866113/2bhk-2t-940-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Semi-Furnished,Tathawade,seller
+4,1 ,"5,500",400 ,https://www.makaan.com/pune/builder-project-in-shivane-13852534/1bhk-1t-400-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished,Shivane,seller
+5,1 ,"5,500",400 ,https://www.makaan.com/pune/builder-project-in-wagholi-13855801/1rk-1t-400-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished,Wagholi,seller
+6,1 ,"3,500",500 ,https://www.makaan.com/pune/builder-project-in-karve-nagar-13850073/1rk-2t-500-sqft-independenthouse-for-rent,1 RK Studio Apartment,No Deposit,Furnished,Karve Nagar,seller
+7,3 ,"21,000",1250 ,https://www.makaan.com/pune/sonigara-homes-nilay-in-chinchwad-13843613/3bhk-3t-1250-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Unfurnished,Chinchwad,seller
+8,2 ,"14,000",1000 ,https://www.makaan.com/pune/reputed-builder-popular-nagar-in-warje-13828547/2bhk-2t-1000-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished,Warje,seller
+9,1 ,"12,000",600 ,https://www.makaan.com/pune/stone-shelters-bappa-residency-in-hinjewadi-13828620/1bhk-1t-600-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished,Hinjewadi,seller
+10,2 ,"10,000",860 ,https://www.makaan.com/pune/viraj-construction-pune-megh-malhar-in-manjari-13813256/2bhk-2t-860-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished,Manjari,seller
+11,2 ,"13,500",1068 ,https://www.makaan.com/pune/ak-surana-developers-shree-vardhman-nagar-in-kondhwa-13820614/2bhk-2t-1068-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished,Kondhwa,seller
+12,2 ,"15,000",1120 ,https://www.makaan.com/pune/kolte-patil-developers-green-groves-cilantro-in-wagholi-13813157/2bhk-2t-1120-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished,Wagholi,seller
+13,2 ,"13,500",819 ,https://www.makaan.com/pune/builder-project-in-daund-13807744/2bhk-1t-819-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Furnished,Daund,seller
+14,2 ,"9,000",630 ,https://www.makaan.com/pune/essen-group-and-md-group-aishwaryam-hamara-phase-ii-in-chikhali-13801336/2bhk-1t-630-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished,Chikhali,seller
+15,2 ,"13,000",1000 ,https://www.makaan.com/pune/builder-project-in-dhanori-13801334/2bhk-2t-1000-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Unfurnished,Dhanori,seller
+16,1 ,"9,000",500 ,https://www.makaan.com/pune/builder-project-in-hinjewadi-13787977/1bhk-2t-500-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished,Hinjewadi,seller
+17,3 ,"25,000",1600 ,https://www.makaan.com/pune/runal-developers-gateway-phase-1-in-ravet-13784790/3bhk-3t-1600-sqft-apartment-for-rent,3 BHK Apartment,No Deposit,Furnished,Ravet,seller
+18,1 ,"12,500",650 ,https://www.makaan.com/pune/gemini-housing-grand-bay-in-manjari-13793342/1bhk-1t-650-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished,Manjari,seller
+19,2 ,"25,000",2000 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13793359/2bhk-2t-2000-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Furnished,Manjari Budruk,seller
+20,1 ,"6,500",400 ,https://www.makaan.com/pune/builder-project-in-old-sangvi-13776958/1rk-1t-400-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished,Old Sangvi,seller
+21,1 ,"10,000",600 ,https://www.makaan.com/pune/builder-project-in-pimple-gurav-13784243/1bhk-1t-600-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Semi-Furnished,Pimple Gurav,seller
+22,1 ,"7,000",425 ,https://www.makaan.com/pune/builder-project-in-wadegaon-13784690/1rk-1t-425-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished,Wadegaon,seller
+23,3 ,"18,000",1500 ,https://www.makaan.com/pune/builder-project-in-chinchwad-13784688/3bhk-3t-1500-sqft-independenthouse-for-rent,3 BHK Independent House,No Deposit,Semi-Furnished,Chinchwad,seller
+24,1 ,"8,500",270 ,https://www.makaan.com/pune/reputed-builder-renuka-heritage-in-pimpri-13776208/1rk-1t-270-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Unfurnished,Pimpri,seller
+25,2 ,"10,000",900 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13776158/2bhk-900-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished,Mundhwa,seller
+26,1 ,"7,000",600 ,https://www.makaan.com/pune/builder-project-in-lohegaon-13776140/1bhk-2t-600-sqft-builderfloor-for-rent,1 BHK Independent Floor,No Deposit,Unfurnished,Lohegaon,seller
+27,2 ,"14,000",1375 ,https://www.makaan.com/pune/shapoorji-pallonji-real-estate-hinjawadi-i-phase-6-in-hinjewadi-13776134/2bhk-2t-1375-sqft-villa-for-rent,2 BHK Villa,No Deposit,Semi-Furnished,Hinjewadi,seller
+28,1 ,"11,000",580 ,https://www.makaan.com/pune/builder-project-in-new-sangavi-13776109/1bhk-1t-580-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished,New Sangavi,seller
+29,2 ,"12,000",825 ,https://www.makaan.com/pune/rajmata-construction-star-city-in-alandi-13767480/2bhk-2t-825-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished,Alandi,seller
+30,2 ,"10,500",950 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13767596/2bhk-2t-950-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Unfurnished,Mundhwa,seller
+31,1 ,"8,000",850 ,https://www.makaan.com/pune/lunkad-builder-anand-tarang-c-building-in-alandi-13762897/1bhk-1t-850-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished,Alandi,seller
+32,2 ,"9,000",900 ,https://www.makaan.com/pune/builder-project-in-mundhwa-13760856/2bhk-2t-900-sqft-independenthouse-for-rent,2 BHK Independent House,No Deposit,Semi-Furnished,Mundhwa,seller
+33,1 ,"13,500",678 ,https://www.makaan.com/pune/saarrthi-group-sovereign-in-hinjewadi-13752400/1bhk-1t-678-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Semi-Furnished,Hinjewadi,seller
+34,1 ,"11,000",550 ,https://www.makaan.com/pune/builder-project-in-wadgaon-sheri-13745406/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished,Wadgaon Sheri,seller
+35,1 ,"5,000",300 ,https://www.makaan.com/pune/sagar-developers-dehu-abhilasha-heights-in-ravet-13746426/1rk-1t-300-sqft-apartment-for-rent,1 RK Studio Apartment,No Deposit,Semi-Furnished,Ravet,seller
+36,1 ,"6,800",550 ,https://www.makaan.com/pune/builder-project-in-manjari-budruk-13748335/1bhk-1t-550-sqft-apartment-for-rent,1 BHK Apartment,No Deposit,Unfurnished,Manjari Budruk,seller
+37,2 ,"15,500",1186 ,https://www.makaan.com/pune/shree-infracon-nidhi-in-lohegaon-13734529/2bhk-2t-1186-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Unfurnished,Lohegaon,seller
+38,2 ,"17,000",891 ,https://www.makaan.com/pune/achalare-realtors-gauravi-apartments-in-baner-13739388/2bhk-2t-891-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished,Baner,seller
+39,2 ,"16,000",820 ,https://www.makaan.com/pune/sankla-buildcoon-palresha-sankla-p-s-villa-in-hadapsar-13739377/2bhk-1t-820-sqft-apartment-for-rent,2 BHK Apartment,No Deposit,Semi-Furnished,Hadapsar,seller
