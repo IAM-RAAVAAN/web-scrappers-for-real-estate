@@ -154,7 +154,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 the_data_pull=[]
-browser = webdriver.Firefox(executable_path="/home/swaraj/Downloads/driver/geckodriver")
+browser = webdriver.Firefox(executable_path="/root/firefox/geckodriver")
 browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 browser.get(url)
 for i in range(2,7):
