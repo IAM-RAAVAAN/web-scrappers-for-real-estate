@@ -3507,3 +3507,1455 @@ JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, lin
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1620927861799	geckodriver	INFO	Listening on 127.0.0.1:62847
+1620927864828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileaX8wuW"
+1620927865995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620927870186	Marionette	INFO	Listening on port 62856
+1620927870703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620927951825	Marionette	INFO	Stopped listening on port 62856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620928021875	geckodriver	INFO	Listening on 127.0.0.1:63004
+1620928024945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile3JsGrE"
+1620928025516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620928028633	Marionette	INFO	Listening on port 63013
+1620928029140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child4/domnode186, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:285:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protococonsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620928112835	Marionette	INFO	Listening on port 63125
+1620928113262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620928143792	Marionette	INFO	Stopped listening on port 63125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+es/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1620928111475	Marionette	INFO	Stopped listening on port 63013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621075475223	geckodriver	INFO	Listening on 127.0.0.1:58729
+1621075478322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileOcaXlo"
+1621075479885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075483390	Marionette	INFO	Listening on port 58743
+1621075483710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075514033	Marionette	INFO	Stopped listening on port 58743
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621076068846	geckodriver	INFO	Listening on 127.0.0.1:59768
+1621076071971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile1ji8gz"
+1621076072621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076075311	Marionette	INFO	Listening on port 59778
+1621076075669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076106221	Marionette	INFO	Stopped listening on port 59778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621076156678	geckodriver	INFO	Listening on 127.0.0.1:59915
+1621076159749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileVpI6Bs"
+1621076160279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076162816	Marionette	INFO	Listening on port 59926
+1621076162960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076193020	Marionette	INFO	Stopped listening on port 59926
+1621140915592	geckodriver	INFO	Listening on 127.0.0.1:55629
+1621140918716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileBflfcp"
+1621140920191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621140923560	Marionette	INFO	Listening on port 55644
+1621140924103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621140983731	Marionette	INFO	Stopped listening on port 55644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621141200971	geckodriver	INFO	Listening on 127.0.0.1:56039
+1621141204067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilehU6SLn"
+1621141204885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621141207764	Marionette	INFO	Listening on port 56050
+1621141208269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621141254217	Marionette	INFO	Stopped listening on port 56050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622132953950	geckodriver	INFO	Listening on 127.0.0.1:61399
+1622132957025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileQXTLY3"
+1622132957423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622132959710	Marionette	INFO	Listening on port 51866
+1622132960201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/Async_Chatbot~b0a04563Bundle.d0a28295be90e58e8750.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622132987542	Marionette	INFO	Stopped listening on port 51866
+1622965449676	geckodriver	INFO	Listening on 127.0.0.1:60483
+1622965452728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileF6R7hU"
+1622965453621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622965456378	Marionette	INFO	Listening on port 64858
+1622965456422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child4/domnode213, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:285:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622965917253	Marionette	INFO	Stopped listening on port 52568
+dules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1622965785375	Marionette	INFO	Stopped listening on port 64858
+1622965911740	geckodriver	INFO	Listening on 127.0.0.1:65509
+1622965914796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilew3l5iW"
+1622965915143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622965917204	Marionette	INFO	Listening on port 55826
+1622965917463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622965995586	Marionette	INFO	Stopped listening on port 55826
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileWtmzCy"
+1622965991272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622965993538	Marionette	INFO	Listening on port 60891
+1622965993614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.b01e47c4d196793486b4.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.b01e47c4d196793486b4.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.b01e47c4d196793486b4.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622966006002	Marionette	INFO	Stopped listening on port 60891
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622966048582	geckodriver	INFO	Listening on 127.0.0.1:59469
+1622966051656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileon9AGG"
+1622966052023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622966054238	Marionette	INFO	Listening on port 55685
+1622966054324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622966065288	Marionette	INFO	Stopped listening on port 55685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622967222669	geckodriver	INFO	Listening on 127.0.0.1:60291
+1622967225706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilewLmzE9"
+1622967226092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622967228522	Marionette	INFO	Listening on port 52091
+1622967228850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/property-in-indore-ffid?src=CLUSTER line 1 > injectedScript, line 3: TypeError: cls[0] is undefined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.b01e47c4d196793486b4.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.b01e47c4d196793486b4.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.b01e47c4d196793486b4.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622967261472	Marionette	INFO	Stopped listening on port 52091
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622967501082	geckodriver	INFO	Listening on 127.0.0.1:52404
+1622967504103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofiler1h84L"
+1622967504462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622967506405	Marionette	INFO	Listening on port 58169
+1622967506730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1622967522574	Marionette	INFO	Stopped listening on port 58169
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622967661338	geckodriver	INFO	Listening on 127.0.0.1:65053
+1622967664367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile9ZugkW"
+1622967664712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622967666648	Marionette	INFO	Listening on port 51032
+1622967666985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622967721014	Marionette	INFO	Stopped listening on port 51032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622967797220	geckodriver	INFO	Listening on 127.0.0.1:59747
+1622967800240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileLQaSdI"
+1622967800579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622967802605	Marionette	INFO	Listening on port 55650
+1622967802869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622967832370	Marionette	INFO	Stopped listening on port 55650
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622967983452	geckodriver	INFO	Listening on 127.0.0.1:57887
+1622967986496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileY9xlag"
+1622967986817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622967989012	Marionette	INFO	Listening on port 54529
+1622967989131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622968002144	Marionette	INFO	Stopped listening on port 54529
+2967995617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilec0FUYX"
+1622967995930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622967997997	Marionette	INFO	Listening on port 57095
+1622967998251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622968163485	Marionette	INFO	Stopped listening on port 57095
+2968157064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileBQO1sC"
+1622968157396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622968159416	Marionette	INFO	Listening on port 55959
+1622968159702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622968203686	Marionette	INFO	Stopped listening on port 55959
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622968291326	geckodriver	INFO	Listening on 127.0.0.1:57569
+1622968294339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilegtDMeW"
+1622968294682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622968296771	Marionette	INFO	Listening on port 49989
+1622968296959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622968341431	Marionette	INFO	Stopped listening on port 49989
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622968375911	geckodriver	INFO	Listening on 127.0.0.1:51535
+1622968378937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileKdlset"
+1622968379290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622968381441	Marionette	INFO	Listening on port 65516
+1622968381571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622968434519	Marionette	INFO	Stopped listening on port 65516
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622968577261	geckodriver	INFO	Listening on 127.0.0.1:59466
+1622968580278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilewQPkQ7"
+1622968580617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622968582922	Marionette	INFO	Listening on port 61321
+1622968583404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622969336498	Marionette	INFO	Stopped listening on port 61321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileR2DH8L"
+1622968813794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622968816049	Marionette	INFO	Listening on port 50706
+1622968816556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622969338038	Marionette	INFO	Stopped listening on port 50706
+2969179604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilehlQ8Kx"
+1622969179936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622969181891	Marionette	INFO	Listening on port 50553
+1622969182294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+1622969339495	Marionette	INFO	Stopped listening on port 50553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileBf25ib"
+1622969329162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622969331294	Marionette	INFO	Listening on port 60916
+1622969331471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622969384192	Marionette	INFO	Stopped listening on port 60916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622969499124	geckodriver	INFO	Listening on 127.0.0.1:51014
+1622969502195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile7RNici"
+1622969502510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622969504608	Marionette	INFO	Listening on port 59916
+1622969504879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622969556397	Marionette	INFO	Stopped listening on port 59916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622969689517	geckodriver	INFO	Listening on 127.0.0.1:64375
+1622969692563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilete2qyv"
+1622969692871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622969695167	Marionette	INFO	Listening on port 56394
+1622969695240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1622969712077	Marionette	INFO	Stopped listening on port 56394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622969870440	geckodriver	INFO	Listening on 127.0.0.1:59470
+1622969873507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilesp4P38"
+1622969873812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622969875763	Marionette	INFO	Listening on port 64262
+1622969876189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1622969937612	Marionette	INFO	Stopped listening on port 64262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622970040480	geckodriver	INFO	Listening on 127.0.0.1:51557
+1622970043533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileSCBWOF"
+1622970043861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622970045895	Marionette	INFO	Listening on port 62740
+1622970046226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/dSrpChatbot~87c775f7Bundle.f9b16f3c283659a075fa.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1622970116936	Marionette	INFO	Stopped listening on port 62740
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622970308093	geckodriver	INFO	Listening on 127.0.0.1:56505
+1622970311147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileJcMf8v"
+1622970311481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622970313520	Marionette	INFO	Listening on port 59877
+1622970313819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1622970373783	Marionette	INFO	Stopped listening on port 59877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622970472459	geckodriver	INFO	Listening on 127.0.0.1:56056
+1622970475541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile2iVeaf"
+1622970475869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622970477742	Marionette	INFO	Listening on port 51564
+1622970478223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1622970486611	Marionette	INFO	Stopped listening on port 51564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622970542693	geckodriver	INFO	Listening on 127.0.0.1:65511
+1622970545764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileXYB7Hx"
+1622970546074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622970547999	Marionette	INFO	Listening on port 63142
+1622970548455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1622970555515	Marionette	INFO	Stopped listening on port 63142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623581406693	geckodriver	INFO	Listening on 127.0.0.1:56449
+1623581409759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile6nIIjW"
+1623581410123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile6nIIjW\\search.json.mozlz4", (void 0)))
+1623581412251	Marionette	INFO	Listening on port 64693
+1623581412447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623581443091	Marionette	INFO	Stopped listening on port 64693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623581531011	geckodriver	INFO	Listening on 127.0.0.1:56833
+1623581534066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileodMVpu"
+1623581534432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileodMVpu\\search.json.mozlz4", (void 0)))
+1623581536641	Marionette	INFO	Listening on port 56842
+1623581536773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://xds.gsecondscreen.com/xds/, line 23: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://xds.gsecondscreen.com/xds/, line 23: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623581566323	Marionette	INFO	Stopped listening on port 56842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623582123441	geckodriver	INFO	Listening on 127.0.0.1:57631
+1623582126487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile5l3Dt4"
+1623582126962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile5l3Dt4\\search.json.mozlz4", (void 0)))
+1623582129725	Marionette	INFO	Listening on port 57641
+1623582130219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/property-in-chennai-ffid line 1 > injectedScript, line 3: TypeError: cls[0] is undefined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623582161461	Marionette	INFO	Stopped listening on port 57641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623582420356	geckodriver	INFO	Listening on 127.0.0.1:65522
+1623582423388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilepGAjaA"
+1623582423861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilepGAjaA\\search.json.mozlz4", (void 0)))
+1623582426118	Marionette	INFO	Listening on port 65532
+1623582426621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/property-in-bangalore-ffid line 1 > injectedScript, line 3: TypeError: cls[0] is undefined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623582452908	Marionette	INFO	Stopped listening on port 65532
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623582685490	geckodriver	INFO	Listening on 127.0.0.1:55571
+1623582688592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileMkrEgm"
+1623582689483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileMkrEgm\\search.json.mozlz4", (void 0)))
+1623582692432	Marionette	INFO	Listening on port 55580
+1623582692840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 210: ReferenceError: currentPageName is not defined
+JavaScript error: https://www.99acres.com/load/verifycaptcha, line 248: ReferenceError: currentPageName is not defined
+1623582708583	Marionette	INFO	Stopped listening on port 55580
+1623583361051	geckodriver	INFO	Listening on 127.0.0.1:54973
+1623583364125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile5GhRJi"
+1623583364480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile5GhRJi\\search.json.mozlz4", (void 0)))
+1623583367060	Marionette	INFO	Listening on port 54983
+1623583367301	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/property-in-hyderabad-ffid?src=CLUSTER line 1 > injectedScript, line 3: TypeError: cls[0] is undefined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623583423992	Marionette	INFO	Stopped listening on port 54983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623583631873	geckodriver	INFO	Listening on 127.0.0.1:51430
+1623583634904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileWtuwWe"
+1623583635261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileWtuwWe\\search.json.mozlz4", (void 0)))
+1623583637247	Marionette	INFO	Listening on port 51440
+1623583637570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js, line 1: TypeError: e is null
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623583671057	Marionette	INFO	Stopped listening on port 51440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623585078240	geckodriver	INFO	Listening on 127.0.0.1:54389
+1623585081275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileCrJdAo"
+1623585081687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofileCrJdAo\\search.json.mozlz4", (void 0)))
+1623585084415	Marionette	INFO	Listening on port 54400
+1623585084467	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 264 failed.
+(error: https://static.99acres.com/universalapp/js/desktopCoachNotification~88a3c260Bundle.a6d71451360dddd7d703.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623585386039	Marionette	INFO	Stopped listening on port 54400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623585693949	geckodriver	INFO	Listening on 127.0.0.1:55956
+1623585697012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile1HbYfB"
+1623585697348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile1HbYfB\\search.json.mozlz4", (void 0)))
+1623585700022	Marionette	INFO	Listening on port 55965
+1623585700163	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: , line 0: uncaught exception: Object
+1623585746147	Marionette	INFO	Stopped listening on port 55965
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623586139671	geckodriver	INFO	Listening on 127.0.0.1:59863
+1623586142696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile6ILe9F"
+1623586143060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofile6ILe9F\\search.json.mozlz4", (void 0)))
+1623586145541	Marionette	INFO	Listening on port 59873
+1623586145819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623586183838	Marionette	INFO	Stopped listening on port 59873
+1623586315162	geckodriver	INFO	Listening on 127.0.0.1:57696
+1623586318160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilettnbUL"
+1623586318508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilettnbUL\\search.json.mozlz4", (void 0)))
+1623586320892	Marionette	INFO	Listening on port 57705
+1623586321282	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 134 failed.
+(error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.8c46c5b4a5adda746a95.js)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: Error: Loading CSS chunk 134 failed.
+(https://static.99acres.com/universalapp/css/NpSrpWidget~31ecd969.f7b776425d9a109012b6.css)
+JavaScript error: https://static.99acres.com/universalapp/js/webpack-runtimeBundle.bae3ac2c4ab85bf6f36d.js, line 1: ChunkLoadError: Loading chunk 264 failed.
+(error: https://static.99acres.com/universalapp/js/desktopCoachNotification~88a3c260Bundle.a6d71451360dddd7d703.js)
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623586408259	Marionette	INFO	Stopped listening on port 57705
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623587197075	geckodriver	INFO	Listening on 127.0.0.1:51408
+1623587200110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilei4vf7Y"
+1623587200499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swaraj\\AppData\\Local\\Temp\\rust_mozprofilei4vf7Y\\search.json.mozlz4", (void 0)))
+1623587202744	Marionette	INFO	Listening on port 51419
+1623587202796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1623587230359	Marionette	INFO	Stopped listening on port 51419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
