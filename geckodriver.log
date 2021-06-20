@@ -4959,3 +4959,173 @@ JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, lin
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1624100852063	geckodriver	INFO	Listening on 127.0.0.1:39849
+1624108543059	geckodriver	INFO	Listening on 127.0.0.1:53491
+1624108622959	geckodriver	INFO	Listening on 127.0.0.1:54635
+1624108707629	geckodriver	INFO	Listening on 127.0.0.1:40071
+1624108793936	geckodriver	INFO	Listening on 127.0.0.1:46871
+1624108794942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileybDcjo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1624108795571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileybDcjo/search.json.mozlz4", (void 0)))
+1624108800124	Marionette	INFO	Listening on port 46401
+1624108800325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624108822979	geckodriver	INFO	Listening on 127.0.0.1:50451
+1624108822986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7CvG2j"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1624108823612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7CvG2j/search.json.mozlz4", (void 0)))
+1624108826945	Marionette	INFO	Listening on port 38151
+1624108827059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1624108837755	Marionette	INFO	Stopped listening on port 38151
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile7CvG2j/protections.sqlite
+1624108978252	geckodriver	INFO	Listening on 127.0.0.1:34385
+1624108978262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqDqTtm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1624108979052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqDqTtm/search.json.mozlz4", (void 0)))
+1624108983213	Marionette	INFO	Listening on port 36445
+1624108983375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624109012784	Marionette	INFO	Stopped listening on port 36445
+1624109540598	geckodriver	INFO	Listening on 127.0.0.1:59529
+1624109541606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUcXhtp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1624109542257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUcXhtp/search.json.mozlz4", (void 0)))
+1624109545181	Marionette	INFO	Listening on port 45573
+1624109545269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624109579032	Marionette	INFO	Stopped listening on port 45573
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624115048930	geckodriver	INFO	Listening on 127.0.0.1:51395
+1624115049938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbHsTZ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1624115050640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekbHsTZ/search.json.mozlz4", (void 0)))
+1624115053679	Marionette	INFO	Listening on port 39997
+1624115053845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1624115062830	Marionette	INFO	Stopped listening on port 39997
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.34b36970d1089549e9ed.js, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilekbHsTZ/protections.sqlite
+1624115824487	geckodriver	INFO	Listening on 127.0.0.1:43905
+1624115824501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Wfrib"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1624115825243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2Wfrib/search.json.mozlz4", (void 0)))
+1624115828369	Marionette	INFO	Listening on port 42325
+1624115828495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.34b36970d1089549e9ed.js, line 1: TypeError: e is null
+JavaScript error: https://static.99acres.com/universalapp/js/NpSrpWidget~31ecd969Bundle.34b36970d1089549e9ed.js, line 1: TypeError: e is null
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ssclient.min.js, line 1: TypeError: n.chat_frame is undefined
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ssclient.min.js, line 1: TypeError: n.chat_frame is undefined
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ssclient.min.js, line 1: TypeError: n.chat_frame is undefined
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ssclient.min.js, line 1: TypeError: n.chat_frame is undefined
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ssclient.min.js, line 1: TypeError: n.chat_frame is undefined

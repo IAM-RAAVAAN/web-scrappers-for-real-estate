@@ -112,7 +112,7 @@ def dates(s):
     date_li=[]
     for i in date_of:
         date_li.append(i.text)
-        print(i.text)
+        #print(i.text)
     #print(date_li)
     #print(len(date_li))
     return date_li
@@ -166,7 +166,7 @@ opts.add_argument("--headless")
 browser = webdriver.Firefox(options=opts)
 from time import sleep
 the_data_pull=[]
-#browser = webdriver.Firefox(executable_path="root/firefox/geckodriver")
+#browser = webdriver.Firefox(executable_path="root/working/geckodriver")
 browser.get(url)
 # element = browser.find_element_by_link_text('Newest First')
 # k=element.click()
@@ -207,7 +207,7 @@ for i in range(2,3):
 
 
         sleep(2)
-browser.quit()
+
 
 
 # In[200]:
