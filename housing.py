@@ -14,6 +14,10 @@ import numpy as np
 import csv
 from bs4 import BeautifulSoup
 import requests
+import logging
+logging.basicConfig(filename='housing.lgs', level=logging.DEBUG,
+                    format='%(levelname)s:%(message)s:%(asctime)s')
+logging.debug('housing started')
 
 
 # In[2]:
@@ -141,7 +145,7 @@ browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 browser.get(url)
 for i in range(2, 7):
     i = str(i)
-    print(i)
+    logging.debug(i)
     browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
     # j=requests.get(browser.page_source)
@@ -176,7 +180,7 @@ f
 # In[15]:
 
 
-f.to_csv(r'C:\Users\swaraj\Desktop\codes\housing.csv')
+f.to_csv(r'housing.csv')
 
 
 # In[ ]:

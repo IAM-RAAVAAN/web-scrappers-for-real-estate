@@ -8,7 +8,9 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import pandas as pd
-
+import logging
+logging.basicConfig(filename='mwala', level=logging.DEBUG, format='%(levelname)s:%(message)s:%(asctime)s')
+logging.debug('mwala started')
 
 # In[62]:
 
@@ -164,7 +166,7 @@ url=url+'&page='
 
 for i in range(2,number_of_pages):
     url=url+str(i)
-    print(url)
+    logging.debug(url)
     df=scrap(url)
     dat.append(df)
     url=url[:-1]
@@ -197,7 +199,7 @@ result
 
 # In[78]:
 
-
+logging.debug('---------------file saved---------------------')
 result.to_csv('makkan.csv')
 
 

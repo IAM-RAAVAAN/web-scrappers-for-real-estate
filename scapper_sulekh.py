@@ -16,6 +16,10 @@ import csv
 import re
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import logging
+logging.basicConfig(filename='sulekha.lgs', level=logging.DEBUG,
+                    format='%(levelname)s:%(message)s:%(asctime)s')
+logging.debug('slkh')
 
 
 # In[112]:
@@ -235,6 +239,7 @@ browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 browser.get(url)
 for i in range(2, 7):
     i = str(i)
+    logging.debug(i)
     browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
     try:
@@ -250,7 +255,6 @@ for i in range(2, 7):
     the_data_pull.append(THE_DA)
 
     sleep(2)
-
 
 
 # In[129]:
@@ -273,8 +277,8 @@ df
 
 # In[133]:
 
-
-df.to_csv(r"C:\Users\swaraj\Desktop\codes\modules\working\sulekha.csv")
+logging.debug('------file stored-----------')
+df.to_csv("sulekha.csv")
 
 
 # In[ ]:

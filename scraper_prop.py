@@ -8,7 +8,9 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import pandas as pd
-
+import logging
+logging.basicConfig(filename='prop.log', level=logging.DEBUG, format='%(levelname)s:%(message)s:%(asctime)s')
+logging.debug('prop started')
 
 # In[37]:
 
@@ -114,7 +116,7 @@ for i in range(2,5):
     url=url[:url.index("=")+1]
 
     url=url+str(i)
-    print(url)
+    logging.debug(url)
     j=requests.get(url)
     k=j.text
     s=BeautifulSoup(k,'lxml')
@@ -126,6 +128,7 @@ df2=pd.concat(l)
 
 
 df2['price']=df2['price'].apply(lambda x: x.strip())
+logging.debug('---------------file saved-------------')
 df2.to_csv('prop.csv')
 
 
